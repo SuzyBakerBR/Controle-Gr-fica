@@ -1,0 +1,21 @@
+# ==========================================
+# COPIE ESTES COMANDOS E COLE NO GIT BASH
+# ==========================================
+
+# 1. Navegar até a pasta do projeto
+cd d:/PROGRAMACAO/projetos/controle-grafica
+
+# 2. Inicializar o git (apenas 1 vez)
+git init
+
+# 3. Adicionar todos os arquivos
+git add .
+
+# 4. Criar o primeiro commit
+git commit -m "Sistema inicial de controle de pedidos"
+
+# 5. Conectar ao seu repositório (já configurado)
+git remote add origin https://github.com/SuzyBakerBR/Controle-Gr-fica.git
+
+# 6. Enviar para o GitHub
+git push -u origin main

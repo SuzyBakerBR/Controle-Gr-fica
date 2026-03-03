@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "cliente": "Junior",
+    "servico": "Adesivo",
+    "valorServicos": 10,
+    "entrada": 0,
+    "status": "finalizado",
+    "pago": "nao",
+    "data": "03/03/2026",
+    "hora": "09:11"
+  },
+  {
+    "id": 2,
+    "cliente": "Mensageiros de Cristo",
+    "servico": "Lona com ilhós e laca 5,05 x 0,70",
+    "valorServicos": 280,
+    "entrada": 280,
+    "status": "producao",
+    "pago": "sim",
+    "data": "03/03/2026",
+    "hora": "09:14"
+  },
+  {
+    "id": 3,
+    "cliente": "Wagner",
+    "servico": "Lona 200x100 com ilhós, banner 100x70 e windbanner de 1,50m",
+    "valorServicos": 340,
+    "entrada": 170,
+    "status": "producao",
+    "pago": "nao",
+    "data": "03/03/2026",
+    "hora": "09:20"
+  },
+  {
+    "id": 4,
+    "cliente": "shopee",
+    "servico": "10 lonas imobiliária (ILO) ",
+    "valorServicos": 76,
+    "entrada": 0,
+    "status": "producao",
+    "pago": "nao",
+    "data": "03/03/2026",
+    "hora": "09:45"
+  },
+  {
+    "id": 5,
+    "cliente": "Thiarles",
+    "servico": "Arte Escova Bronze",
+    "valorServicos": 20,
+    "entrada": 0,
+    "status": "producao",
+    "pago": "nao",
+    "data": "03/03/2026",
+    "hora": "10:15"
+  }
+]
